@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# Others
+.DS_Store
+ArticleEnumClass.xcodeproj/project.xcworkspace/xcuserdata/
+ArticleEnumClass.xcodeproj/xcuserdata/
