@@ -11,6 +11,8 @@
 
 #include <type_traits>
 
+// Credits to Anthony Williams for inspiring me with this opt-in mecanism
+// https://www.justsoftwaresolutions.co.uk/cplusplus/using-enum-classes-as-bitfields.html
 template<typename T>
 struct enable_enum_class_bitfield
 {
